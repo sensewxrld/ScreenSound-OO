@@ -1,0 +1,14 @@
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\bin\Debug\net8.0\ScreenSound-OO.exe
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\bin\Debug\net8.0\ScreenSound-OO.deps.json
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\bin\Debug\net8.0\ScreenSound-OO.runtimeconfig.json
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\bin\Debug\net8.0\ScreenSound-OO.dll
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\bin\Debug\net8.0\ScreenSound-OO.pdb
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\obj\Debug\net8.0\ScreenSound-OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\obj\Debug\net8.0\ScreenSound-OO.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\obj\Debug\net8.0\ScreenSound-OO.AssemblyInfo.cs
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\obj\Debug\net8.0\ScreenSound-OO.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\obj\Debug\net8.0\ScreenSound-OO.dll
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\obj\Debug\net8.0\refint\ScreenSound-OO.dll
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\obj\Debug\net8.0\ScreenSound-OO.pdb
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\obj\Debug\net8.0\ScreenSound-OO.genruntimeconfig.cache
+C:\Users\Micro\source\repos\ScreenSound-OO\ScreenSound-OO\obj\Debug\net8.0\ref\ScreenSound-OO.dll
